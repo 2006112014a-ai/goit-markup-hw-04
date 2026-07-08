@@ -32,7 +32,7 @@
 /* Флекс-контейнер для двух блоков внутри футера */
 .page-footer .container {
     display: flex;
-    align-items: baseline;
+    align-items: flex-start;
 }
 
 /* ТЗ: Отступ между блоками формируем за счет горизонтального маржина, а не gap */

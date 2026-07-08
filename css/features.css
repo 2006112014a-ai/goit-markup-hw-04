@@ -38,6 +38,7 @@
     /* Тот самый светло-серый цвет */
     border-radius: 4px;
     margin-bottom: 8px;
+    border: 1px solid #8e8f99;
     /* Отступ вниз до текста заголовка */
 }
 
